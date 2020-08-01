@@ -10,7 +10,4 @@ Next, setup this app easily in AndroidStudio, and you can make it works.
 
 ## Contact
 
-Gong Ming ([http://www.gongmingqm10.net](http://www.gongmingqm10.net))
-
-- [http://github.com/gongmingqm10](http://github.com/gongmingqm10)
-- [gongmingqm10@gmail.com](gongmingqm10@gmail.com)
+http://www.pbxme.com/trunktest.asp
