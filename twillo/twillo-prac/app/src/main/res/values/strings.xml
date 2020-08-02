@@ -11,4 +11,6 @@
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
     <string name="hint_room_name">Room Name</string>
     <string name="lets_chat">Let\'s chat</string>
+    <string name="room_fragment">Room Fragment</string>
+    <string name="video_chat_fragment">Video Chat</string>
 </resources>
