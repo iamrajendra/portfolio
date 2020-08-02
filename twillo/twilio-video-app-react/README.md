@@ -232,3 +232,12 @@ See [.env.example](.env.example) for an explanation of the environment variables
 ## License
 
 See the [LICENSE](LICENSE) file for details.
+
+## Truble Shoot 
+
+
+First, upgrade the Twilio CLI plugin: twilio plugins:update.
+Then, run twilio rtc:apps:video:delete. The app that was deployed is likely in a corrupt state, and running this command will remove it.
+Once the app is deleted, try running npm run deploy:twilio-cli again. It should deploy without problems.
+
+
